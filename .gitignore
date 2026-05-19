@@ -44,3 +44,6 @@ data/processed/*
 .DS_Store
 Thumbs.db
 EOF
+.venv/
+__pycache__/
+*.pyc
