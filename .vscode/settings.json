@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": ".venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "python.envFile": "${workspaceFolder}/.env",
+    "jupyter.interactiveWindow.cellMarker": "# %%",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    }
+}
